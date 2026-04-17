@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "title": "東京タワーに行く",
-      "description": "展望台から東京の街を一望しよう。夜景もおすすめ！",
+      "title": "行ったことのない近所のランドマークに行く",
+      "description": "意外と知らない地元の名所があるかも。散歩がてら探検してみよう！",
       "category": "おでかけ",
       "difficulty": 1,
       "duration": "半日",
@@ -269,6 +269,744 @@
       "difficulty": 2,
       "duration": "1時間",
       "icon": "🌍"
+    },
+    {
+      "id": 31,
+      "title": "海を見に行く",
+      "description": "波の音を聞きながらぼんやり海を眺めよう。それだけで最高のリフレッシュ。",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🌊"
+    },
+    {
+      "id": 32,
+      "title": "一駅分歩く",
+      "description": "いつも電車で通り過ぎる駅間を歩いてみよう。知らなかったお店や景色に出会えるかも。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🚶"
+    },
+    {
+      "id": 33,
+      "title": "どこかで30分ただぼーっとする",
+      "description": "ベンチ、河原、屋上…どこでもOK。スマホを置いて、何もしない贅沢を味わおう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分",
+      "icon": "😌"
+    },
+    {
+      "id": 34,
+      "title": "人間観察をする",
+      "description": "カフェや公園のベンチに座って、行き交う人々をそっと観察してみよう。物語が見えてくるかも。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "👀"
+    },
+    {
+      "id": 35,
+      "title": "寺社仏閣を巡る",
+      "description": "近くの神社やお寺にお参りしよう。静かな境内を歩くだけで心が落ち着く。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "⛩️"
+    },
+    {
+      "id": 36,
+      "title": "川や線路に沿って歩く",
+      "description": "川沿いや線路沿いをひたすら歩いてみよう。どこにたどり着くかはお楽しみ。",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🏞️"
+    },
+    {
+      "id": 37,
+      "title": "本屋に行く",
+      "description": "目的なく本屋をブラブラしてみよう。表紙やタイトルに惹かれた本を1冊手に取ってみて。",
+      "category": "学び",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "📖"
+    },
+    {
+      "id": 38,
+      "title": "植物園に行く",
+      "description": "季節の花や珍しい植物に囲まれて、ゆったりした時間を過ごそう。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🌷"
+    },
+    {
+      "id": 39,
+      "title": "展望台・高いビルに登る",
+      "description": "街を見下ろす景色は格別。いつもの街が違って見えるかも。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🏙️"
+    },
+    {
+      "id": 40,
+      "title": "商店街をブラブラする",
+      "description": "活気ある商店街を歩いて、気になるお店に飛び込んでみよう。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🏪"
+    },
+    {
+      "id": 41,
+      "title": "猫カフェに行く",
+      "description": "もふもふの猫たちに癒やされよう。猫好きでなくてもハマるかも。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🐱"
+    },
+    {
+      "id": 42,
+      "title": "ゲームセンターに行く",
+      "description": "クレーンゲームや音ゲー、レトロゲームなど気軽に遊びに行こう。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🕹️"
+    },
+    {
+      "id": 43,
+      "title": "道の駅に行く",
+      "description": "地元の特産品や新鮮な野菜を見つけに、ドライブがてら道の駅へ。",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🚗"
+    },
+    {
+      "id": 44,
+      "title": "古着屋に行く",
+      "description": "一点もののアイテムとの出会いを楽しもう。掘り出し物が眠っているかも。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "👕"
+    },
+    {
+      "id": 45,
+      "title": "雑貨屋に行く",
+      "description": "おしゃれな雑貨屋を覗いてみよう。ちょっとしたプレゼント探しにも。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🪴"
+    },
+    {
+      "id": 46,
+      "title": "朝市・市場に行く",
+      "description": "早起きして地元の朝市や市場を覗いてみよう。新鮮な食材と活気がある。",
+      "category": "グルメ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🐟"
+    },
+    {
+      "id": 47,
+      "title": "スポーツ観戦に行く",
+      "description": "野球、サッカー、バスケ…現地で観る臨場感は格別！",
+      "category": "エンタメ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🏟️"
+    },
+    {
+      "id": 48,
+      "title": "滝を見に行く",
+      "description": "マイナスイオンを浴びに、近場の滝を訪れてみよう。迫力に圧倒されるかも。",
+      "category": "おでかけ",
+      "difficulty": 3,
+      "duration": "半日〜1日",
+      "icon": "💧"
+    },
+    {
+      "id": 49,
+      "title": "城・城跡を訪ねる",
+      "description": "歴史ロマンを感じに、お城や城跡を歩いてみよう。石垣だけでも見応えあり。",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🏯"
+    },
+    {
+      "id": 50,
+      "title": "科学館に行く",
+      "description": "体験型の展示で楽しみながら学べる。大人でもワクワクする。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🔬"
+    },
+    {
+      "id": 51,
+      "title": "ライブ・コンサートに行く",
+      "description": "好きなアーティストはもちろん、知らないバンドのライブも新鮮で楽しい。",
+      "category": "エンタメ",
+      "difficulty": 2,
+      "duration": "2〜3時間",
+      "icon": "🎵"
+    },
+    {
+      "id": 52,
+      "title": "足湯に浸かりに行く",
+      "description": "気軽に立ち寄れる足湯でほっとひと息。無料スポットも意外と多い。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🦶"
+    },
+    {
+      "id": 53,
+      "title": "家族へのプレゼントを買う",
+      "description": "特別な日じゃなくてもOK。ふと思い出した家族にちょっとした贈り物を選ぼう。",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🎁"
+    },
+    {
+      "id": 54,
+      "title": "パンやお菓子を焼く",
+      "description": "焼きたての香りは最高のごほうび。簡単なレシピから始めてみよう。",
+      "category": "グルメ",
+      "difficulty": 2,
+      "duration": "2〜3時間",
+      "icon": "🍞"
+    },
+    {
+      "id": 55,
+      "title": "コーヒーを豆から淹れる",
+      "description": "豆を挽いて、ハンドドリップでじっくり淹れる。いつもと違う一杯を楽しもう。",
+      "category": "グルメ",
+      "difficulty": 2,
+      "duration": "30分〜1時間",
+      "icon": "☕"
+    },
+    {
+      "id": 56,
+      "title": "自転車でどこかに行く",
+      "description": "自分の自転車でもレンタサイクルでもOK。風を切って走ると気分爽快！",
+      "category": "スポーツ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🚲"
+    },
+    {
+      "id": 57,
+      "title": "筋トレをする",
+      "description": "腕立て、スクワット、腹筋…自宅でもジムでも。まずは10分だけでもOK。",
+      "category": "スポーツ",
+      "difficulty": 2,
+      "duration": "30分〜1時間",
+      "icon": "💪"
+    },
+    {
+      "id": 58,
+      "title": "楽器を触ってみる",
+      "description": "ギター、ピアノ、ウクレレ…持っていなくても楽器体験できるお店もある。",
+      "category": "エンタメ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🎸"
+    },
+    {
+      "id": 59,
+      "title": "瞑想を10分する",
+      "description": "静かな場所で目を閉じて呼吸に集中。頭がスッキリする。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "10〜30分",
+      "icon": "🧠"
+    },
+    {
+      "id": 60,
+      "title": "日記を書く",
+      "description": "今日あったこと、考えたことを書き出してみよう。ノートでもスマホでもOK。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分",
+      "icon": "📝"
+    },
+    {
+      "id": 61,
+      "title": "友達に連絡する",
+      "description": "久しぶりのあの人に「元気？」とメッセージを送ってみよう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分",
+      "icon": "📱"
+    },
+    {
+      "id": 62,
+      "title": "自分だけのプレイリストを作る",
+      "description": "テーマを決めて好きな曲を集めよう。「雨の日」「やる気が出る」など何でもOK。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🎧"
+    },
+    {
+      "id": 63,
+      "title": "知らないジャンルの音楽を聴く",
+      "description": "ジャズ、クラシック、ボサノバ…普段聴かないジャンルに飛び込んでみよう。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🎶"
+    },
+    {
+      "id": 64,
+      "title": "ドキュメンタリーを観る",
+      "description": "自然、歴史、宇宙…知らない世界を覗けるドキュメンタリーは発見の宝庫。",
+      "category": "学び",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🎞️"
+    },
+    {
+      "id": 65,
+      "title": "自分の街の歴史を調べる",
+      "description": "住んでいる街の成り立ちや由来を調べてみよう。意外な発見があるかも。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🏛️"
+    },
+    {
+      "id": 66,
+      "title": "行きたい場所リストを作る",
+      "description": "いつか行きたい場所をリストアップしよう。書くだけでワクワクしてくる。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分",
+      "icon": "📋"
+    },
+    {
+      "id": 67,
+      "title": "献血に行く",
+      "description": "誰かの役に立てる手軽な社会貢献。お菓子やジュースがもらえることも。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🩸"
+    },
+    {
+      "id": 68,
+      "title": "靴を磨く",
+      "description": "お気に入りの靴をピカピカにしよう。丁寧に手入れすると愛着が増す。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分",
+      "icon": "👞"
+    },
+    {
+      "id": 69,
+      "title": "植物を育て始める",
+      "description": "小さな鉢植えやハーブを一つ買ってみよう。育てる楽しみが生まれる。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🌱"
+    },
+    {
+      "id": 70,
+      "title": "ジグソーパズルをやる",
+      "description": "黙々とピースをはめていく没入感。完成したときの達成感も格別。",
+      "category": "エンタメ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🧩"
+    },
+    {
+      "id": 71,
+      "title": "お弁当を作って外で食べる",
+      "description": "自分で作ったお弁当を持って公園やベンチへ。外で食べるだけで特別感アップ。",
+      "category": "グルメ",
+      "difficulty": 2,
+      "duration": "2〜3時間",
+      "icon": "🍱"
+    },
+    {
+      "id": 72,
+      "title": "押し入れ・クローゼットを整理する",
+      "description": "奥にしまい込んだものを全部出してみよう。懐かしいものが出てくるかも。",
+      "category": "くらし",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🚪"
+    },
+    {
+      "id": 73,
+      "title": "写真フォルダを整理する",
+      "description": "スマホに溜まった写真を見返して整理しよう。お気に入りをアルバムにまとめても。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🖼️"
+    },
+    {
+      "id": 74,
+      "title": "財布の中身を整理する",
+      "description": "レシート、ポイントカード、使っていないカード…スッキリさせよう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分",
+      "icon": "👛"
+    },
+    {
+      "id": 75,
+      "title": "丁寧にお風呂に入る",
+      "description": "入浴剤を入れて、キャンドルを灯して、いつもより長めに湯船に浸かろう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🛁"
+    },
+    {
+      "id": 76,
+      "title": "アロマを焚いてリラックスする",
+      "description": "好きな香りのアロマやお香を焚いて、ゆったりした時間を過ごそう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "30分",
+      "icon": "🕯️"
+    },
+    {
+      "id": 77,
+      "title": "窓をピカピカに磨く",
+      "description": "窓を磨くと部屋が明るくなって気分も上がる。達成感もある。",
+      "category": "くらし",
+      "difficulty": 2,
+      "duration": "30分〜1時間",
+      "icon": "🪟"
+    },
+    {
+      "id": 78,
+      "title": "防災グッズを見直す",
+      "description": "非常食の期限や懐中電灯の電池をチェック。備えあれば憂いなし。",
+      "category": "くらし",
+      "difficulty": 2,
+      "duration": "30分〜1時間",
+      "icon": "🔦"
+    },
+    {
+      "id": 79,
+      "title": "気になっていたアニメを一気見する",
+      "description": "話題作や名作を一気に観よう。1クール12話、意外とサクッと観られる。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "半日",
+      "icon": "📺"
+    },
+    {
+      "id": 80,
+      "title": "脱出ゲームに挑戦する",
+      "description": "制限時間内に謎を解いて脱出しよう。一人でもグループでも楽しめる。",
+      "category": "エンタメ",
+      "difficulty": 3,
+      "duration": "1〜2時間",
+      "icon": "🔐"
+    },
+    {
+      "id": 81,
+      "title": "落語・お笑いライブを観に行く",
+      "description": "生で観る笑いは格別。小さな寄席や劇場なら気軽に入れる。",
+      "category": "エンタメ",
+      "difficulty": 2,
+      "duration": "2〜3時間",
+      "icon": "😂"
+    },
+    {
+      "id": 82,
+      "title": "ボウリングに行く",
+      "description": "久しぶりに投げてみよう。ストライクが出たときの爽快感は最高。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🎳"
+    },
+    {
+      "id": 83,
+      "title": "ダーツをやる",
+      "description": "初心者でもすぐ楽しめる。狙って投げる集中力がクセになる。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🎯"
+    },
+    {
+      "id": 84,
+      "title": "積んでいた本・漫画を読む",
+      "description": "買ったまま読んでいない本、ありませんか？今日こそ開いてみよう。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "📕"
+    },
+    {
+      "id": 85,
+      "title": "写真を撮ってSNSに投稿する",
+      "description": "今日の空、ごはん、散歩道…何でもOK。撮って発信すると日常が特別に見える。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🤳"
+    },
+    {
+      "id": 86,
+      "title": "カレーを本格的に作る",
+      "description": "スパイスから作るカレーに挑戦してみよう。ルーとは別物の味わいに感動するかも。",
+      "category": "グルメ",
+      "difficulty": 3,
+      "duration": "2〜3時間",
+      "icon": "🍛"
+    },
+    {
+      "id": 87,
+      "title": "焼肉を食べに行く",
+      "description": "たまには自分へのご褒美に。好きな部位を思い切り楽しもう。",
+      "category": "グルメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🥩"
+    },
+    {
+      "id": 88,
+      "title": "寿司を食べに行く",
+      "description": "回転寿司でもカウンターでも。旬のネタを味わおう。",
+      "category": "グルメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🍣"
+    },
+    {
+      "id": 89,
+      "title": "餃子を皮から作る",
+      "description": "皮から手作りすると、もちもち食感が全然違う。包む作業も楽しい。",
+      "category": "グルメ",
+      "difficulty": 3,
+      "duration": "2〜3時間",
+      "icon": "🥟"
+    },
+    {
+      "id": 90,
+      "title": "ハンバーガーを食べに行く",
+      "description": "チェーン店もいいけど、個人経営のバーガーショップもおすすめ。",
+      "category": "グルメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🍔"
+    },
+    {
+      "id": 91,
+      "title": "ケーキ屋でご褒美スイーツを買う",
+      "description": "ショーケースの前で迷う時間も楽しい。自分へのちょっとした贅沢を。",
+      "category": "グルメ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🍰"
+    },
+    {
+      "id": 92,
+      "title": "異国の料理を食べに行く",
+      "description": "タイ料理、メキシコ料理、トルコ料理…食べたことのない味に出会いに行こう。",
+      "category": "グルメ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🌮"
+    },
+    {
+      "id": 93,
+      "title": "資格や検定の勉強を始める",
+      "description": "気になっていた資格、今日がスタートの日にしよう。まずはテキストを開くだけでOK。",
+      "category": "学び",
+      "difficulty": 3,
+      "duration": "1〜2時間",
+      "icon": "📄"
+    },
+    {
+      "id": 94,
+      "title": "TED Talkを3本観る",
+      "description": "世界のプレゼンから刺激をもらおう。字幕付きで英語の勉強にもなる。",
+      "category": "学び",
+      "difficulty": 1,
+      "duration": "1時間",
+      "icon": "🎙️"
+    },
+    {
+      "id": 95,
+      "title": "将棋・チェスのルールを覚える",
+      "description": "駒の動かし方から始めてみよう。アプリで気軽に対局もできる。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "♟️"
+    },
+    {
+      "id": 96,
+      "title": "タイピング練習をする",
+      "description": "無料のタイピングサイトでスコアを上げてみよう。上達が数字で見えて楽しい。",
+      "category": "学び",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "⌨️"
+    },
+    {
+      "id": 97,
+      "title": "折り紙で難しい作品に挑戦する",
+      "description": "鶴の次は何を折る？動画を見ながら複雑な作品にチャレンジしてみよう。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🪭"
+    },
+    {
+      "id": 98,
+      "title": "地図を見ないで知らない道を歩く",
+      "description": "スマホをしまって、勘だけで歩いてみよう。迷子になるのも冒険のうち。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🧭"
+    },
+    {
+      "id": 99,
+      "title": "今日のニュースを3つ深掘りする",
+      "description": "見出しだけでなく、背景や関連情報まで調べてみよう。世界の見え方が変わる。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1時間",
+      "icon": "📰"
+    },
+    {
+      "id": 100,
+      "title": "写真の撮り方・構図を学ぶ",
+      "description": "三分割法や光の使い方を知るだけで、スマホ写真が見違えるほど変わる。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "📷"
+    },
+    {
+      "id": 101,
+      "title": "好きなことについて文章を書く",
+      "description": "趣味、旅行、推し…何でもOK。自分の言葉でまとめると新しい発見がある。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🖊️"
+    },
+    {
+      "id": 102,
+      "title": "ペン字・書道を練習する",
+      "description": "お手本をなぞって丁寧に書くだけで心が落ち着く。字が綺麗になるおまけ付き。",
+      "category": "学び",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🖌️"
+    },
+    {
+      "id": 103,
+      "title": "プールで泳ぐ",
+      "description": "市民プールなら数百円で利用できる。水の中は気持ちいい。",
+      "category": "スポーツ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "🏊"
+    },
+    {
+      "id": 104,
+      "title": "バッティングセンターに行く",
+      "description": "ボールを打つ爽快感はストレス発散に最高。初心者でも遅い球から始められる。",
+      "category": "スポーツ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "⚾"
+    },
+    {
+      "id": 105,
+      "title": "縄跳びをする",
+      "description": "100均でも買える手軽さ。5分でも本気でやるとかなりの運動量。",
+      "category": "スポーツ",
+      "difficulty": 2,
+      "duration": "30分",
+      "icon": "🤸"
+    },
+    {
+      "id": 106,
+      "title": "キャッチボールをする",
+      "description": "友達や家族を誘って公園でキャッチボール。シンプルだけど楽しい。",
+      "category": "スポーツ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🥎"
+    },
+    {
+      "id": 107,
+      "title": "卓球をやる",
+      "description": "温泉やスポーツセンターで気軽にできる。ラリーが続くと盛り上がる。",
+      "category": "スポーツ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🏓"
+    },
+    {
+      "id": 108,
+      "title": "バドミントンをやる",
+      "description": "公園でもできるお手軽スポーツ。風を読みながら打つのが意外と奥深い。",
+      "category": "スポーツ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🏸"
+    },
+    {
+      "id": 109,
+      "title": "スケートに行く",
+      "description": "氷の上をスイスイ滑る気持ちよさ。転んでも笑える楽しさがある。",
+      "category": "スポーツ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "⛸️"
+    },
+    {
+      "id": 110,
+      "title": "ラジオ体操を本気でやる",
+      "description": "実はちゃんとやると全身運動。動画を見ながら正しいフォームで挑戦しよう。",
+      "category": "スポーツ",
+      "difficulty": 1,
+      "duration": "10〜30分",
+      "icon": "🙆"
+    },
+    {
+      "id": 111,
+      "title": "ウォーキングで1万歩歩く",
+      "description": "スマホの歩数計を見ながら1万歩を目指そう。達成すると気分がいい。",
+      "category": "スポーツ",
+      "difficulty": 2,
+      "duration": "1〜2時間",
+      "icon": "👟"
+    },
+    {
+      "id": 112,
+      "title": "フットサル・バスケの体験に参加する",
+      "description": "初心者歓迎の体験イベントを探して参加してみよう。新しい仲間もできるかも。",
+      "category": "スポーツ",
+      "difficulty": 3,
+      "duration": "2〜3時間",
+      "icon": "⚽"
     }
   ]
 }
