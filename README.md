@@ -1,4 +1,4 @@
-# Quest Maker
+# 今日のクエストメーカー
 
 「何しよう？」を解決する、クエスト提案Webサービスです。
 
@@ -34,6 +34,6 @@ quest_maker/
 ├── js/
 │   └── app.js          # アプリのロジック
 ├── data/
-│   └── quests.json     # クエストデータ（30個）
+│   └── quests.json     # クエストデータ（112個）
 └── README.md
 ```
