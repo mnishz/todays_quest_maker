@@ -1,0 +1,274 @@
+{
+  "quests": [
+    {
+      "id": 1,
+      "title": "映画館で映画を観る",
+      "description": "気になっていた映画を映画館の大スクリーンで楽しもう！ポップコーンも忘れずに。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "2〜3時間",
+      "icon": "🎬"
+    },
+    {
+      "id": 2,
+      "title": "東京タワーに行く",
+      "description": "展望台から東京の街を一望しよう。夜景もおすすめ！",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "半日",
+      "icon": "🗼"
+    },
+    {
+      "id": 3,
+      "title": "近所のカフェを新規開拓する",
+      "description": "いつもと違うカフェに入ってみよう。新しいお気に入りが見つかるかも。",
+      "category": "グルメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "☕"
+    },
+    {
+      "id": 4,
+      "title": "公園でピクニックをする",
+      "description": "お弁当やサンドイッチを持って、近くの公園でのんびり過ごそう。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "2〜3時間",
+      "icon": "🧺"
+    },
+    {
+      "id": 5,
+      "title": "図書館で本を3冊借りる",
+      "description": "普段読まないジャンルの本にも挑戦してみよう。",
+      "category": "学び",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "📚"
+    },
+    {
+      "id": 6,
+      "title": "美術館・博物館に行く",
+      "description": "アートや歴史に触れて、知的好奇心を満たそう。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🎨"
+    },
+    {
+      "id": 7,
+      "title": "新しい料理に挑戦する",
+      "description": "作ったことのない料理のレシピを検索して、自分で作ってみよう。",
+      "category": "グルメ",
+      "difficulty": 2,
+      "duration": "2〜3時間",
+      "icon": "🍳"
+    },
+    {
+      "id": 8,
+      "title": "散歩しながら写真を10枚撮る",
+      "description": "スマホでOK！いつもの街を「カメラマンの目」で歩いてみよう。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "📸"
+    },
+    {
+      "id": 9,
+      "title": "ボードゲームカフェに行く",
+      "description": "友達や一人でも楽しめるボードゲームカフェで遊ぼう。",
+      "category": "エンタメ",
+      "difficulty": 2,
+      "duration": "2〜3時間",
+      "icon": "🎲"
+    },
+    {
+      "id": 10,
+      "title": "部屋の模様替えをする",
+      "description": "家具の配置を変えたり、小物を飾ったりして気分転換しよう。",
+      "category": "くらし",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🏠"
+    },
+    {
+      "id": 11,
+      "title": "プラネタリウムに行く",
+      "description": "満天の星空を楽しめるプラネタリウムでリラックスしよう。",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🌌"
+    },
+    {
+      "id": 12,
+      "title": "フリーマーケットに行く",
+      "description": "掘り出し物を探しに、近くのフリマやマルシェに出かけよう。",
+      "category": "おでかけ",
+      "difficulty": 1,
+      "duration": "2〜3時間",
+      "icon": "🛍️"
+    },
+    {
+      "id": 13,
+      "title": "ジョギングで5km走る",
+      "description": "気持ちいい風を感じながら、体を動かしてリフレッシュしよう。",
+      "category": "スポーツ",
+      "difficulty": 2,
+      "duration": "1時間",
+      "icon": "🏃"
+    },
+    {
+      "id": 14,
+      "title": "温泉・銭湯に行く",
+      "description": "日頃の疲れを癒やしに、近くの温泉や銭湯でゆっくりしよう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "2〜3時間",
+      "icon": "♨️"
+    },
+    {
+      "id": 15,
+      "title": "知らない駅で降りてみる",
+      "description": "電車に乗って適当な駅で降りてみよう。新しい発見があるかも！",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🚃"
+    },
+    {
+      "id": 16,
+      "title": "手紙を書く",
+      "description": "久しく連絡していない友人や家族に手紙を書いてみよう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "1時間",
+      "icon": "✉️"
+    },
+    {
+      "id": 17,
+      "title": "ヨガ・ストレッチをする",
+      "description": "YouTubeの動画を見ながら、自宅でヨガやストレッチに挑戦しよう。",
+      "category": "スポーツ",
+      "difficulty": 1,
+      "duration": "30分〜1時間",
+      "icon": "🧘"
+    },
+    {
+      "id": 18,
+      "title": "水族館に行く",
+      "description": "海の生き物たちを眺めて、癒やしのひとときを過ごそう。",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🐠"
+    },
+    {
+      "id": 19,
+      "title": "DIYで何か作る",
+      "description": "100均の材料で棚やインテリア小物を作ってみよう。",
+      "category": "くらし",
+      "difficulty": 3,
+      "duration": "半日",
+      "icon": "🔨"
+    },
+    {
+      "id": 20,
+      "title": "行ったことのないラーメン屋に行く",
+      "description": "口コミで気になっていたラーメン屋を攻めてみよう。",
+      "category": "グルメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🍜"
+    },
+    {
+      "id": 21,
+      "title": "ハイキングに行く",
+      "description": "自然の中を歩いて、心も体もリフレッシュしよう。",
+      "category": "スポーツ",
+      "difficulty": 3,
+      "duration": "1日",
+      "icon": "⛰️"
+    },
+    {
+      "id": 22,
+      "title": "カラオケで10曲歌う",
+      "description": "ストレス発散に最適！一人カラオケもOK！",
+      "category": "エンタメ",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "🎤"
+    },
+    {
+      "id": 23,
+      "title": "プログラミングに挑戦する",
+      "description": "簡単なWebページやゲームを作ってみよう。無料の教材がたくさんあるよ。",
+      "category": "学び",
+      "difficulty": 3,
+      "duration": "2〜3時間",
+      "icon": "💻"
+    },
+    {
+      "id": 24,
+      "title": "スケッチ・お絵描きをする",
+      "description": "上手くなくてOK！好きなものを自由に描いてみよう。",
+      "category": "くらし",
+      "difficulty": 1,
+      "duration": "1〜2時間",
+      "icon": "✏️"
+    },
+    {
+      "id": 25,
+      "title": "動物園に行く",
+      "description": "可愛い動物たちに会いに行こう。意外と大人も楽しい！",
+      "category": "おでかけ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🦁"
+    },
+    {
+      "id": 26,
+      "title": "食べ歩きツアーをする",
+      "description": "商店街や観光地で食べ歩きを楽しもう。3軒以上チャレンジ！",
+      "category": "グルメ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🍡"
+    },
+    {
+      "id": 27,
+      "title": "ボルダリングに挑戦する",
+      "description": "初心者でも楽しめるボルダリングジムに行ってみよう。",
+      "category": "スポーツ",
+      "difficulty": 3,
+      "duration": "2〜3時間",
+      "icon": "🧗"
+    },
+    {
+      "id": 28,
+      "title": "映画を3本マラソンで観る",
+      "description": "シリーズものや同じ監督の作品を一気見しよう。",
+      "category": "エンタメ",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🍿"
+    },
+    {
+      "id": 29,
+      "title": "断捨離をする",
+      "description": "使っていないものを整理して、スッキリした空間を作ろう。",
+      "category": "くらし",
+      "difficulty": 2,
+      "duration": "半日",
+      "icon": "🗑️"
+    },
+    {
+      "id": 30,
+      "title": "新しい言語のフレーズを5個覚える",
+      "description": "英語、韓国語、フランス語…興味のある言語を少しだけ勉強してみよう。",
+      "category": "学び",
+      "difficulty": 2,
+      "duration": "1時間",
+      "icon": "🌍"
+    }
+  ]
+}

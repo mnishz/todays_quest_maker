@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quest Maker - 今日のクエストを見つけよう</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1 class="header__title">Quest Maker</h1>
+      <p class="header__subtitle">何しよう？ボタンを押してクエストを受けよう！</p>
+    </header>
+
+    <main class="main">
+      <!-- カテゴリフィルター -->
+      <section class="filters">
+        <div class="filters__categories" id="categoryFilters">
+          <!-- JS で動的に生成 -->
+        </div>
+      </section>
+
+      <!-- クエストカード表示エリア -->
+      <section class="quest-display">
+        <div class="quest-card" id="questCard">
+          <div class="quest-card__empty">
+            <p class="quest-card__empty-icon">🗺️</p>
+            <p>ボタンを押してクエストを受けよう！</p>
+          </div>
+        </div>
+
+        <button class="btn btn--primary" id="drawButton">
+          クエストを引く！
+        </button>
+      </section>
+
+      <!-- 達成済みクエスト一覧 -->
+      <section class="completed-section">
+        <h2 class="completed-section__title">
+          達成したクエスト
+          <span class="completed-section__count" id="completedCount">0</span>
+        </h2>
+        <div class="completed-list" id="completedList">
+          <p class="completed-list__empty">まだクエストを達成していません</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>&copy; 2025 Quest Maker</p>
+    </footer>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
